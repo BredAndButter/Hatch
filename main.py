@@ -102,7 +102,7 @@ banner = '''
  |  __  |/ _` | __/ __| '_ \\
  | |  | | (_| | || (__| | | |
  |_|  |_|\__,_|\__\___|_| |_|
-  V.2.0
+  V.1.4
   coded by Metachar and HackermanEXE
   brute-force tool                      '''
 
