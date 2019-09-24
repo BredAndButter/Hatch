@@ -103,7 +103,7 @@ banner = '''
  | |  | | (_| | || (__| | | |
  |_|  |_|\__,_|\__\___|_| |_|
   V.1.4
-  coded by Metachar and HackermanEXE
+  coded by Metachar, nsgodshall, and HackermanEXE
   brute-force tool                      '''
 
 driver = webdriver.Chrome(CHROME_DVR_DIR)
