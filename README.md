@@ -1,8 +1,10 @@
 # Hatch
 Hatch is a brute force tool that is used to brute force most websites
 
-# Update! v.1.3.1
-added arg support **yay**
+# Update! v.1.4.0
+added python 3 compatibility **yay**
+
+# Commands
 <br>
   -h, --help            show this help message and exit<br>
   -u USERNAME, --username=USERNAME Choose the username<br>
@@ -13,16 +15,17 @@ added arg support **yay**
   --website=WEBSITE     choose a website<br>
 dont worry if you load up the tool without any args youll go to the default wizard!
 Also i removed the apt xvfb and pip2 pyvirtualdisplay
+
 ## Installation Instructions
 ```
 git clone https://github.com/MetaChar/Hatch
-python2 main.py
+python3 main.py
 ```
 
 ## Requirements
 ```
-pip2 install selenium
-pip2 install requests
+pip3 install selenium
+pip3 install requests
 ```
 Chrome and chromedriver are required
 
